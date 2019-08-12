@@ -60,12 +60,12 @@ console.warn('Ryans algos is working from the beginning...');
 //###################################################################################
 // Reverse a String
 function reverseString(str) {
-    
+    return str.split('').reverse().join('')
 };
-// reverseString("hello"); //Returns a string.
-// reverseString("hello"); //Returns "olleh".
-// reverseString("Howdy"); //Returns "ydwoH".
-// reverseString("Greetings from Earth"); //Returns "htraE morf sgniteerG".
+// console.log(reverseString("hello")); //Returns a string.
+// console.log(reverseString("hello")); //Returns "olleh".
+// console.log(reverseString("Howdy")); //Returns "ydwoH".
+// console.log(reverseString("Greetings from Earth")); //Returns "htraE morf sgniteerG".
 
 //###################################################################################
 //Factorialize a Number
