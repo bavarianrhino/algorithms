@@ -9,8 +9,8 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Reverse a String
 * [x] Factorialize a Number
 * [x] Find the Longest Word in a String
-* [ ] Return Largest Numbers in Arrays
-* [ ] Confirm the Ending
+* [x] Return Largest Numbers in Arrays
+* [x] Confirm the Ending
 * [ ] Repeat a String Repeat a String
 * [ ] Truncate a String
 * [ ] Finders Keepers
@@ -81,7 +81,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 
 ## JavaScript Algorithms and Data Structures Projects
 * [ ] Palindrome Checker
-* [ ] Roman Numeral Converter
+* [x] Roman Numeral Converter
 * [ ] Caesars Cipher
 * [ ] Telephone Number Validator
 * [ ] Cash Register
