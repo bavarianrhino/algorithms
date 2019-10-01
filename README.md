@@ -12,9 +12,9 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Return Largest Numbers in Arrays
 * [x] Confirm the Ending
 * [ ] Repeat a String Repeat a String
-* [ ] Truncate a String
+* [x] Truncate a String
 * [ ] Finders Keepers
-* [ ] Boo who
+* [x] Boo who
 * [ ] Title Case a Sentence
 * [ ] Slice and Splice
 * [ ] Falsy Bouncer
