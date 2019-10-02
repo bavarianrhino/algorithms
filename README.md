@@ -11,7 +11,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Find the Longest Word in a String
 * [x] Return Largest Numbers in Arrays
 * [x] Confirm the Ending
-* [ ] Repeat a String Repeat a String
+* [x] Repeat a String Repeat a String
 * [x] Truncate a String
 * [ ] Finders Keepers
 * [x] Boo who
