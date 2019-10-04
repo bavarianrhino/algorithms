@@ -20,7 +20,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [ ] Falsy Bouncer
 * [ ] Where do I Belong
 * [ ] Mutations
-* [ ] Chunky Monkey
+* [x] Chunky Monkey
 
 ## Intermediate Algorithm Scripting
 * [ ] Sum All Numbers in a Range
