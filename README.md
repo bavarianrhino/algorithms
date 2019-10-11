@@ -15,7 +15,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Truncate a String
 * [ ] Finders Keepers
 * [x] Boo who
-* [ ] Title Case a Sentence
+* [x] Title Case a Sentence
 * [ ] Slice and Splice
 * [ ] Falsy Bouncer
 * [ ] Where do I Belong
