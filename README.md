@@ -17,7 +17,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Boo who
 * [x] Title Case a Sentence
 * [ ] Slice and Splice
-* [ ] Falsy Bouncer
+* [x] Falsy Bouncer
 * [ ] Where do I Belong
 * [ ] Mutations
 * [x] Chunky Monkey
