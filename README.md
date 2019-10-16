@@ -13,7 +13,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Confirm the Ending
 * [x] Repeat a String Repeat a String
 * [x] Truncate a String
-* [ ] Finders Keepers
+* [x] Finders Keepers
 * [x] Boo who
 * [x] Title Case a Sentence
 * [ ] Slice and Splice
