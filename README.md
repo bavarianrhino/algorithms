@@ -19,7 +19,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [ ] Slice and Splice
 * [x] Falsy Bouncer
 * [ ] Where do I Belong
-* [ ] Mutations
+* [x] Mutations
 * [x] Chunky Monkey
 
 ## Intermediate Algorithm Scripting
