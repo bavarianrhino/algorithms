@@ -24,7 +24,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 
 ## Intermediate Algorithm Scripting
 * [ ] Sum All Numbers in a Range
-* [ ] Diff Two Arrays
+* [x] Diff Two Arrays
 * [x] Seek and Destroy
 * [ ] Wherefore art thou
 * [ ] Spinal Tap Case
