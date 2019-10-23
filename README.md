@@ -23,7 +23,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Chunky Monkey
 
 ## Intermediate Algorithm Scripting
-* [ ] Sum All Numbers in a Range
+* [x] Sum All Numbers in a Range
 * [x] Diff Two Arrays
 * [x] Seek and Destroy
 * [ ] Wherefore art thou
