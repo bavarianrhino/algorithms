@@ -27,7 +27,7 @@ My solutions to the JavaScript algorithms on [Free Code Camp](https://www.freeco
 * [x] Diff Two Arrays
 * [x] Seek and Destroy
 * [ ] Wherefore art thou
-* [ ] Spinal Tap Case
+* [x] Spinal Tap Case
 * [ ] Pig Latin
 * [ ] Search and Replace
 * [ ] DNA Pairing
